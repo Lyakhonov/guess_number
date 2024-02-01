@@ -1,6 +1,6 @@
 from random import randint
 rand = randint(0, 100)
-guess = int(input('Угадайте число от 0 до 100  '))
+guess = int(input('Угадайте число от 0 до 100   '))
 flag = True
 number = 0
 while flag:
